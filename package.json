@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Creating an Amazon-like storefront with MySQL. The app is taking orders from customers and deplete stock from the store's inventory.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vuntsova/Bamazon.git"
+  },
+  "author": "Emiliya Vuntsova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vuntsova/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Vuntsova/Bamazon#readme"
+}
